@@ -1,6 +1,6 @@
-# campus fit tracker graphs
+# Campus fit tracker graphs
 
-this repo contains two graph implementations in jetpack compose.
+This repo contains two graph implementations in jetpack compose.
 
 ## branches
 
